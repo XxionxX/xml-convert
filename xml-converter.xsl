@@ -38,8 +38,5 @@
     </xsl:for-each>
   </order>
 </xsl:template>
-<<<<<<< HEAD
 </xsl:stylesheet> 
-=======
 </xsl:stylesheet> 
->>>>>>> remotes/origin/master
