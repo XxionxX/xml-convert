@@ -38,5 +38,4 @@
     </xsl:for-each>
   </order>
 </xsl:template>
-</xsl:stylesheet> 
-</xsl:stylesheet> 
+</xsl:stylesheet>
